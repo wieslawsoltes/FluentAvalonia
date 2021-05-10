@@ -1,5 +1,4 @@
 ﻿using Avalonia.Controls;
-using FluentAvalonia.Core;
 using System;
 using System.Collections;
 using System.Collections.Generic;

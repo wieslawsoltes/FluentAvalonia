@@ -4,12 +4,12 @@ using Avalonia.Controls;
 using Avalonia.Controls.Primitives;
 using Avalonia.Layout;
 using Avalonia.VisualTree;
-using FluentAvalonia.Core;
 using FluentAvalonia.UI.Media.Animation;
 using System;
 using System.Collections;
 using System.Collections.Generic;
 using System.Text;
+using FluentAvalonia.Core;
 
 namespace FluentAvalonia.UI.Controls
 {

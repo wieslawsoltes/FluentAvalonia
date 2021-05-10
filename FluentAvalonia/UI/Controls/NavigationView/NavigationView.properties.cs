@@ -2,13 +2,13 @@
 using Avalonia.Controls;
 using Avalonia.Controls.Primitives;
 using Avalonia.Controls.Templates;
-using FluentAvalonia.Core;
 using System;
 using System.Collections;
 using System.Collections.Generic;
 using System.Collections.Specialized;
 using System.Reactive.Disposables;
 using System.Text;
+using FluentAvalonia.Core;
 
 namespace FluentAvalonia.UI.Controls
 {

@@ -7,7 +7,6 @@ using Avalonia.Interactivity;
 using Avalonia.Layout;
 using Avalonia.Threading;
 using Avalonia.VisualTree;
-using FluentAvalonia.Core;
 using FluentAvalonia.UI.Controls.Primitives;
 using System;
 using System.Collections;
@@ -17,6 +16,7 @@ using System.ComponentModel;
 using System.Diagnostics;
 using System.Reactive.Disposables;
 using System.Text;
+using FluentAvalonia.Core;
 
 namespace FluentAvalonia.UI.Controls
 {

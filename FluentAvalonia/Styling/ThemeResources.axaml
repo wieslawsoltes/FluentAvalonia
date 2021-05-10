@@ -2394,35 +2394,8 @@
     
     <!-- BASIC CONTROLS (UPDATED STYLES) -->
     <StyleInclude Source="/Styling/BasicControls/ButtonStyle.axaml" />
-    <StyleInclude Source="/Styling/BasicControls/ToggleButtonStyle.axaml" />
-    <StyleInclude Source="/Styling/BasicControls/RepeatButtonStyle.axaml" />
-    <StyleInclude Source="/Styling/BasicControls/CheckBoxStyle.axaml" />
-    <StyleInclude Source="/Styling/BasicControls/RadioButtonStyle.axaml" />
-    <StyleInclude Source="/Styling/BasicControls/TextBoxStyle.axaml" />
-    <StyleInclude Source="/Styling/BasicControls/ScrollBarStyle.axaml" />
-    <StyleInclude Source="/Styling/BasicControls/MenuStyle.axaml" />
-    <StyleInclude Source="/Styling/BasicControls/MenuItemStyle.axaml" />
-    <StyleInclude Source="/Styling/BasicControls/DatePicker.axaml" />
-    <StyleInclude Source="/Styling/BasicControls/CalendarDatePicker.axaml" />
-    <StyleInclude Source="/Styling/BasicControls/AvComboBox.axaml" />
-    <StyleInclude Source="/Styling/BasicControls/SliderStyle.axaml" />
-    <StyleInclude Source="/Styling/BasicControls/ToggleSwitchStyle.axaml" />
-    <StyleInclude Source="/Styling/BasicControls/ExpanderStyle.axaml" />
-    <StyleInclude Source="/Styling/BasicControls/WindowStyle.axaml" />
-    
+
     <!-- This includes all navigationview resources/Styles -->
     <StyleInclude Source="avares://FluentAvalonia/Styling/NavigationView/NavigationView.axaml" />
-    
-    <StyleInclude Source="avares://FluentAvalonia/Styling/FlyoutPresenterStyle.axaml" />
-    <StyleInclude Source="avares://FluentAvalonia/Styling/ContentDialogStyle.axaml" />
-    <StyleInclude Source="avares://FluentAvalonia/Styling/ComboBox.axaml" />    
-    <StyleInclude Source="avares://FluentAvalonia/Styling/Frame.axaml" />
-    <StyleInclude Source="avares://FluentAvalonia/Styling/SplitButtonStyle.axaml" />  
-    <StyleInclude Source="avares://FluentAvalonia/Styling/DropDownButton.axaml" />
-    <StyleInclude Source="avares://FluentAvalonia/Styling/MenuFlyoutItem.axaml" />
-    <StyleInclude Source="avares://FluentAvalonia/Styling/ColorPickerStyles.axaml" />
-    <StyleInclude Source="avares://FluentAvalonia/Styling/ColorPickerButton.axaml" />
-    <StyleInclude Source="avares://FluentAvalonia/Styling/CommandBar/CommandBarStyle.axaml" />
-    <StyleInclude Source="avares://FluentAvalonia/Styling/NumberBoxStyle.axaml" />
 
 </sty:ThemeStyles>
