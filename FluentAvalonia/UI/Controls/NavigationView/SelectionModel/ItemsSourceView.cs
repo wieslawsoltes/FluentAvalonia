@@ -17,7 +17,7 @@ namespace FluentAvalonia.UI.Controls
     /// view of the Items. That way, each component does not need to know if the source is an
     /// IEnumerable, an IList, or something else.
     /// </remarks>
-    public class ItemsSourceView : INotifyCollectionChanged, IDisposable
+    internal class ItemsSourceView : INotifyCollectionChanged, IDisposable
     {
         private readonly IList _inner;
         private INotifyCollectionChanged _notifyCollectionChanged;

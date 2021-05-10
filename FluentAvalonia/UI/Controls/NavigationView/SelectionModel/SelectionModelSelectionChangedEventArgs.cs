@@ -4,7 +4,7 @@ using System.Text;
 
 namespace FluentAvalonia.UI.Controls
 {
-    public class SelectionModelSelectionChangedEventArgs : EventArgs
+    internal class SelectionModelSelectionChangedEventArgs : EventArgs
     {
         public SelectionModelSelectionChangedEventArgs(
             IReadOnlyList<IndexPath>? deselectedIndices,
